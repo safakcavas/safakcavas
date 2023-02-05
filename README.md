@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safakcavas
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning ... react.js
+- 👀 I’m interested in frontend development-mobile development
+- 🌱 I’m currently learning ... react-native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
